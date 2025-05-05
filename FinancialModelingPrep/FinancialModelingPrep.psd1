@@ -1,5 +1,5 @@
 @{
-	ModuleVersion      = '0.1'
+	ModuleVersion      = '0.1.0.1'
 	GUID               = '75b6ae1d-a766-49d7-a644-3af5a46db7da'
 	Author             = 'Chris Masters'
 	CompanyName        = 'Chris Masters'
@@ -225,7 +225,7 @@
 
 		PSData = @{
 
-			Tags                     = 'FMP', 'FinancialModeling', 'FinancialModelingprep', 'Crypto', 'Cryptocurrency', 'Trading', 'API', 'Finance', 'Investing', 'Investment', 'Stock', 'Stocks', 'Market', 'StockMarket', 'FinancialStatements', 'FinancialStatement', 'Financials', 'Financial', 'Charts', 'Kline', 'Candlestick', 'TechnicalAnalysis', 'Indicators', 'Indicator', 'StockScreener', 'Screener', 'StockScreenerAPI', 'StockMarketAPI', 'FinancialStatementsAPI', 'FinancialModelingPrepAPI'
+			Tags                     = @('FMP', 'FinancialModeling', 'FinancialModelingprep', 'Crypto', 'Cryptocurrency', 'Trading', 'API', 'Finance', 'Investing', 'Investment', 'Stock', 'Stocks', 'Market', 'StockMarket', 'FinancialStatements', 'FinancialStatement', 'Financials', 'Financial', 'Charts', 'Kline', 'Candlestick', 'TechnicalAnalysis', 'Indicators', 'Indicator', 'StockScreener', 'Screener', 'StockScreenerAPI', 'StockMarketAPI', 'FinancialStatementsAPI', 'FinancialModelingPrepAPI')
 			LicenseUri               = 'https://github.com/masters274/FinancialModelingPrep/blob/main/LICENSE'
 			ProjectUri               = 'https://github.com/masters274/FinancialModelingPrep'
 			RequireLicenseAcceptance = $true
