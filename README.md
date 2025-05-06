@@ -41,7 +41,7 @@ Save-FMPCredentials -ApiKey "YOUR_FMP_API_KEY"
 **Remove Credentials (if needed):**
 You can remove stored API keys using:
 ```powershell
-Remove-RHCCredentials
+Remove-FMPCredentials
 ```
 
 ## Usage Examples
