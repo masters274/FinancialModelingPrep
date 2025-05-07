@@ -1,5 +1,5 @@
 @{
-	ModuleVersion      = '0.1.0.1'
+	ModuleVersion      = '1.0.0.0'
 	GUID               = '75b6ae1d-a766-49d7-a644-3af5a46db7da'
 	Author             = 'Chris Masters'
 	CompanyName        = 'Chris Masters'
@@ -228,10 +228,18 @@
 			Tags                     = @('FMP', 'FinancialModeling', 'FinancialModelingprep', 'Crypto', 'Cryptocurrency', 'Trading', 'API', 'Finance', 'Investing', 'Investment', 'Stock', 'Stocks', 'Market', 'StockMarket', 'FinancialStatements', 'FinancialStatement', 'Financials', 'Financial', 'Charts', 'Kline', 'Candlestick', 'TechnicalAnalysis', 'Indicators', 'Indicator', 'StockScreener', 'Screener', 'StockScreenerAPI', 'StockMarketAPI', 'FinancialStatementsAPI', 'FinancialModelingPrepAPI')
 			LicenseUri               = 'https://github.com/masters274/FinancialModelingPrep/blob/main/LICENSE'
 			ProjectUri               = 'https://github.com/masters274/FinancialModelingPrep'
+			RepositorySourceLocation = 'https://github.com/masters274/FinancialModelingPrep/tree/main/FinancialModelingPrep'
+			IconUri                  = 'https://github.com/masters274/FinancialModelingPrep/blob/main/images/fmp_icon.png'
+			HelpUri                  = 'https://github.com/masters274/FinancialModelingPrep/blob/main/README.md'
 			RequireLicenseAcceptance = $true
 			ReleaseNotes             = '
 Version 0.1
-- Day 1 release of Financial Modeling Prep Stock Market and Financial Statements API module.'
+- Day 1 release of Financial Modeling Prep Stock Market and Financial Statements API module.
+
+Version 1.0.0.0
+- Manifest updated additional URLs
+- Repo updated: README, icon, tags
+'
 		}
 	}
 }

@@ -1,6 +1,6 @@
 # Financial Modeling Prep - PowerShell Module
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/masters274/FinancialModelingPrep/blob/main/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/masters274/FinancialModelingPrep/blob/main/LICENSE) <img src="images/fmp_icon.png" align="right" width="120" alt="Financial Modeling Prep Icon"/><br /><br /><br />
 
 ## Overview
 
@@ -72,3 +72,9 @@ Get-FMPCompanyProfile -Symbol AAPL
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/masters274/FinancialModelingPrep/blob/main/LICENSE) file for details.
+
+## Send-Coffee ☕
+
+Automators run on coffee, so if you've found this module useful, consider "Sending a coffee!"
+
+[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue?logo=paypal)](https://www.paypal.me/ChrisMasters/5)
